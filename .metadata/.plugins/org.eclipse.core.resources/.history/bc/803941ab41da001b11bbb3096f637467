@@ -1,0 +1,21 @@
+
+public class BookTest {
+
+	public static void main(String[] args) {
+
+		// 객체 배열을 할당하면 객체를 가리킬 주소값을 담을 배열들이 생성된다  => 초기값은 null 
+		Book[] library = new Book[5]; 
+		
+		
+		library[0] = new Book("책1", "창주");
+		library[1] = new Book("책1", "창주");
+		library[2] = new Book("책1", "창주");
+		library[3] = new Book("책1", "창주");
+		library[4] = new Book("책1", "창주");
+		
+		for (int i = 0; i < library.length; i++) {
+			System.out.println(library[i]);
+		}
+	}
+
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="20161351 &lt;kcj3054@naver.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="20161351 &lt;kcj3054@naver.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\kcj30\eclipse-workspace\java-calendar\.git">
+			<item value="false"/>
+			<item value="20161351 &lt;kcj3054@naver.com&gt;"/>
+			<item value="Init"/>
+			<item value="20161351 &lt;kcj3054@naver.com&gt;"/>
+			<item value="60a91c9f62e57d0f4ecc9d4c0e7e0c1a0d4b45c0"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="C:\Users\kcj30\eclipse-workspace\javaCalendar\.git">
+			<item value="false"/>
+			<item value="20161351 &lt;kcj3054@naver.com&gt;"/>
+			<item value="calendar"/>
+			<item value="20161351 &lt;kcj3054@naver.com&gt;"/>
+			<item value="457a05a47f52862d13ac71e93d9162512952321e"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="621"/>
+		<item key="DIALOG_Y_ORIGIN" value="186"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="503"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+</section>

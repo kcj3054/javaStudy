@@ -1,0 +1,14 @@
+
+public class Student {
+
+	static int serialNum = 10000;
+	
+	int studentId;
+	int studentName;
+	
+	Student() {
+		serialNum++;
+		studentId = serialNum;
+	}
+	
+}

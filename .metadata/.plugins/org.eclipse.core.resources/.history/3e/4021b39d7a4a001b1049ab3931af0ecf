@@ -1,0 +1,14 @@
+package Study;
+
+
+class TimerThread extends Thread {
+	
+}
+public class Study {
+
+	public static void main(String[] args) {
+		System.out.println();
+
+	}
+
+}

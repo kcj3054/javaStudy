@@ -1,0 +1,12 @@
+package 직원관리시스템22;
+
+public class Employee {
+
+	private int id;
+	private String name;
+	private int [] dept;
+	private int [] position;
+	private int grade;
+	
+
+}
